@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Spring-Security-Basic/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/Spring-Security-Basic/src/main/java" />
+      <root url="file://$PROJECT_DIR$/Spring-Security-Basic/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
